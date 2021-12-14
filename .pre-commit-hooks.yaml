@@ -1,0 +1,6 @@
+-   id: plouko-hook
+    name: password cipher & braces moving
+    description: This hook ciphers all <PASSWORD> word and moves braces at the end of the lines to the new next line.
+    entry: plouko-hook-exec
+    language: python
+    types: [text]
